@@ -1,0 +1,1001 @@
+name,popularity,followers,genres,date
+Taylor Swift,100,110018310,['pop'],2024-05-14
+Drake,93,87652359,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",2024-05-14
+Bad Bunny,91,81055703,"['reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+The Weeknd,91,83230718,"['canadian contemporary r&b', 'canadian pop', 'pop']",2024-05-14
+Future,90,16967058,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",2024-05-14
+Travis Scott,90,29262871,"['rap', 'slap house']",2024-05-14
+Kendrick Lamar,90,28758746,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",2024-05-14
+Ariana Grande,90,96245474,['pop'],2024-05-14
+Metro Boomin,90,8052123,['rap'],2024-05-14
+Kanye West,89,25258883,"['chicago rap', 'hip hop', 'rap']",2024-05-14
+Feid,88,11118133,"['colombian pop', 'pop reggaeton', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",2024-05-14
+Post Malone,88,43845207,"['dfw rap', 'melodic rap', 'pop', 'rap']",2024-05-14
+SZA,88,19838645,"['pop', 'r&b', 'rap']",2024-05-14
+21 Savage,87,18427480,"['atl hip hop', 'hip hop', 'rap']",2024-05-14
+Peso Pluma,87,13422707,"['corridos tumbados', 'sad sierreno']",2024-05-14
+Lana Del Rey,87,34944241,"['art pop', 'pop']",2024-05-14
+Beyoncé,87,37341574,"['pop', 'r&b']",2024-05-14
+Dua Lipa,87,43311891,"['dance pop', 'pop', 'uk pop']",2024-05-14
+Rihanna,87,59813781,"['barbadian pop', 'pop', 'urban contemporary']",2024-05-14
+KAROL G,86,46163586,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",2024-05-14
+Natanael Cano,86,12519487,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",2024-05-14
+Billie Eilish,86,93805004,"['art pop', 'pop']",2024-05-14
+Justin Bieber,86,74867315,"['canadian pop', 'pop']",2024-05-14
+Rauw Alejandro,86,21597242,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Junior H,86,15832722,"['corrido', 'corridos tumbados', 'musica mexicana', 'sad sierreno', 'sierreno']",2024-05-14
+Morgan Wallen,86,9333183,['contemporary country'],2024-05-14
+Olivia Rodrigo,86,35775745,['pop'],2024-05-14
+Playboi Carti,85,10667554,"['atl hip hop', 'plugg', 'pluggnb', 'rage rap', 'rap']",2024-05-14
+Fuerza Regida,85,8783683,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",2024-05-14
+David Guetta,85,25445428,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",2024-05-14
+Zach Bryan,85,3861660,['classic oklahoma country'],2024-05-14
+Myke Towers,85,14707990,"['reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Benson Boone,84,2479426,['singer-songwriter pop'],2024-05-14
+Chris Brown,84,21635560,"['r&b', 'rap']",2024-05-14
+J. Cole,84,23462332,"['conscious hip hop', 'hip hop', 'north carolina hip hop', 'rap']",2024-05-14
+Doja Cat,84,29763034,"['dance pop', 'pop']",2024-05-14
+Anuel AA,84,35404295,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",2024-05-14
+Hozier,84,7040373,"['irish singer-songwriter', 'modern rock', 'pov: indie']",2024-05-14
+Sabrina Carpenter,83,8296657,['pop'],2024-05-14
+Shakira,83,32852852,"['colombian pop', 'dance pop', 'latin pop', 'pop']",2024-05-14
+Jung Kook,83,14256172,['k-pop'],2024-05-14
+Nicki Minaj,83,31073387,"['hip pop', 'pop', 'queens hip hop', 'rap']",2024-05-14
+Ozuna,83,36517553,"['puerto rican pop', 'reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Noah Kahan,83,2752480,['pov: indie'],2024-05-14
+Daddy Yankee,83,33617992,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Tiësto,82,7250802,"['big room', 'brostep', 'dutch edm', 'edm', 'house', 'pop dance', 'slap house', 'trance']",2024-05-14
+Bizarrap,82,15144110,"['argentine hip hop', 'pop venezolano', 'trap argentino', 'trap latino', 'urbano latino']",2024-05-14
+Cris Mj,82,2412132,"['mambo chileno', 'trap latino', 'urbano chileno', 'urbano latino']",2024-05-14
+Maroon 5,82,41398941,['pop'],2024-05-14
+Gunna,82,7147132,"['atl hip hop', 'melodic rap', 'rap', 'trap']",2024-05-14
+Rels B,82,6940613,"['r&b en espanol', 'spanish hip hop', 'trap latino', 'urbano espanol', 'urbano latino']",2024-05-14
+Lil Wayne,82,14491618,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",2024-05-14
+Carin Leon,82,11340068,"['corrido', 'musica mexicana', 'sad sierreno', 'sierreno']",2024-05-14
+Ty Dolla $ign,82,5229951,"['hip hop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",2024-05-14
+Lil Baby,82,17356772,"['atl hip hop', 'atl trap', 'rap', 'trap']",2024-05-14
+Luke Combs,82,10459745,"['contemporary country', 'country']",2024-05-14
+Lil Uzi Vert,81,17067747,"['hip hop', 'melodic rap', 'philly rap', 'rage rap', 'rap', 'trap']",2024-05-14
+OneRepublic,81,16892544,"['piano rock', 'pop']",2024-05-14
+Khalid,81,16110346,"['pop', 'pop r&b']",2024-05-14
+Artemas,81,617046,[],2024-05-14
+Yeat,81,4770875,"['pluggnb', 'rage rap']",2024-05-14
+Oscar Maydon,81,1526567,"['corrido', 'corridos tumbados', 'sierreno']",2024-05-14
+A$AP Rocky,81,14010476,"['east coast hip hop', 'hip hop', 'rap', 'trap']",2024-05-14
+Queen,81,49659111,"['classic rock', 'glam rock', 'rock']",2024-05-14
+Tate McRae,81,5284839,['pop'],2024-05-14
+Maluma,81,33646145,"['latin pop', 'reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",2024-05-14
+Luis R Conriquez,81,4988862,"['corrido', 'corridos tumbados', 'norteno', 'sad sierreno', 'sierreno']",2024-05-14
+Sia,81,27797811,"['australian dance', 'australian pop', 'pop']",2024-05-14
+Grupo Frontera,81,3802833,['musica chihuahuense'],2024-05-14
+Arcángel,80,13973643,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Young Thug,80,9862494,"['atl hip hop', 'atl trap', 'gangster rap', 'melodic rap', 'rap', 'trap']",2024-05-14
+Bryson Tiller,80,8366472,"['kentucky hip hop', 'r&b', 'rap']",2024-05-14
+Xavi,80,4324585,['sad sierreno'],2024-05-14
+Don Toliver,80,4242540,"['pop rap', 'rap', 'trap']",2024-05-14
+Gabito Ballesteros,80,2577075,"['corrido', 'sierreno']",2024-05-14
+Mitski,80,7747081,"['brooklyn indie', 'pov: indie']",2024-05-14
+Marshmello,80,33594415,"['brostep', 'edm', 'pop', 'progressive electro house']",2024-05-14
+Teddy Swims,80,2030375,[],2024-05-14
+Elton John,80,13193560,"['glam rock', 'mellow gold', 'piano rock', 'rock']",2024-05-14
+Eladio Carrion,79,6707374,"['trap boricua', 'trap latino', 'trap triste', 'urbano latino']",2024-05-14
+Julión Álvarez y su Norteño Banda,79,5054155,"['banda', 'musica mexicana', 'norteno', 'sad sierreno', 'sierreno']",2024-05-14
+Michael Jackson,79,30708577,"['r&b', 'soul']",2024-05-14
+Farruko,79,15570804,"['reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+AC/DC,79,28267082,"['australian rock', 'hard rock', 'rock']",2024-05-14
+YoungBoy Never Broke Again,79,12601963,"['baton rouge rap', 'rap']",2024-05-14
+Milo j,79,3274074,"['trap argentino', 'trap latino', 'urbano latino']",2024-05-14
+Stray Kids,79,15337279,"['k-pop', 'k-pop boy group', 'pop']",2024-05-14
+Young Miko,79,2911805,"['trap latino', 'urbano latino']",2024-05-14
+Jhayco,79,7570400,"['reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Bob Marley & The Wailers,79,12190443,"['reggae', 'roots reggae']",2024-05-14
+Metallica,78,27012302,"['hard rock', 'metal', 'old school thrash', 'rock', 'thrash metal']",2024-05-14
+Lil Durk,78,7438277,"['chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",2024-05-14
+Fleetwood Mac,78,11384366,"['album rock', 'classic rock', 'rock', 'soft rock', 'yacht rock']",2024-05-14
+Chris Stapleton,78,6962322,"['contemporary country', 'outlaw country']",2024-05-14
+Chappell Roan,78,742734,"['indie pop', 'springfield mo indie']",2024-05-14
+Sech,78,11892259,"['panamanian pop', 'reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+SAIKO,78,891358,"['trap latino', 'urbano espanol', 'urbano latino']",2024-05-14
+FloyyMenor,78,302930,['reggaeton chileno'],2024-05-14
+Dei V,78,792909,"['trap latino', 'urbano latino']",2024-05-14
+Jack Harlow,78,3763273,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",2024-05-14
+Snoop Dogg,78,11613211,"['g funk', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'west coast rap']",2024-05-14
+Disney,78,510789,['movie tunes'],2024-05-14
+Madonna,78,7733138,"['dance pop', 'pop']",2024-05-14
+The Chainsmokers,78,20074084,['pop'],2024-05-14
+Lenny Tavárez,78,2715165,"['reggaeton', 'trap argentino', 'trap latino', 'urbano latino']",2024-05-14
+¥$,78,587628,[],2024-05-14
+ABBA,78,12063520,"['europop', 'swedish pop']",2024-05-14
+Justin Quiles,78,4511103,"['reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Camila Cabello,78,32876709,"['dance pop', 'pop']",2024-05-14
+Christian Nodal,78,14357916,"['mariachi', 'musica mexicana', 'ranchera']",2024-05-14
+Kodak Black,77,10461088,"['florida drill', 'florida rap', 'melodic rap', 'miami hip hop', 'rap', 'trap', 'trap latino']",2024-05-14
+JENNIE,77,6284627,['k-pop'],2024-05-14
+Ava Max,77,6771704,['pop'],2024-05-14
+Kygo,77,8323842,"['edm', 'pop', 'pop dance', 'tropical house']",2024-05-14
+Florence + The Machine,77,6653481,"['baroque pop', 'electropop', 'modern rock', 'neo mellow', 'uk alternative pop']",2024-05-14
+Djo,77,1317814,"['pov: indie', 'psychedelic pop']",2024-05-14
+Cardi B,77,23728892,"['pop', 'rap']",2024-05-14
+Black Eyed Peas,77,8070312,"['dance pop', 'pop', 'pop rap']",2024-05-14
+Camilo,77,18754109,"['colombian pop', 'latin pop', 'latin viral pop', 'reggaeton colombiano']",2024-05-14
+Polo G,77,11213317,"['chicago rap', 'rap']",2024-05-14
+Mc Gw,77,1494453,"['funk carioca', 'funk mtg', 'funk paulista', 'funk rj']",2024-05-14
+Charlie Puth,77,22575739,"['pop', 'viral pop']",2024-05-14
+Lil Tecca,77,7268465,"['melodic rap', 'pluggnb', 'rap']",2024-05-14
+Tiago PZK,77,4920495,"['trap argentino', 'trap latino', 'urbano latino']",2024-05-14
+Tyla,77,1148424,[],2024-05-14
+Tory Lanez,77,6647640,"['canadian hip hop', 'canadian trap', 'melodic rap', 'pop rap', 'r&b', 'rap', 'trap']",2024-05-14
+Yandel,77,7555743,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Ryan Castro,76,2448287,"['reggaeton', 'trap colombiano', 'trap latino', 'urbano latino']",2024-05-14
+Megan Thee Stallion,76,9009554,"['houston rap', 'pop', 'r&b', 'rap', 'trap queen']",2024-05-14
+Fall Out Boy,76,10563408,"['emo', 'modern rock', 'pop', 'pop punk', 'rock']",2024-05-14
+Grupo Marca Registrada,76,4140420,"['corrido', 'norteno', 'sad sierreno']",2024-05-14
+Chino Pacas,76,1959122,"['corrido', 'sierreno']",2024-05-14
+Tommy Richman,76,204174,['chill abstract hip hop'],2024-05-14
+BigXthaPlug,76,629048,['southern hip hop'],2024-05-14
+Central Cee,76,5262660,"['melodic drill', 'r&drill']",2024-05-14
+Nicki Nicole,76,6619317,"['argentine hip hop', 'r&b argentino', 'trap argentino', 'trap latino', 'urbano latino']",2024-05-14
+The Rolling Stones,76,13892324,"['album rock', 'british invasion', 'classic rock', 'rock']",2024-05-14
+Offset,76,3975609,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",2024-05-14
+Dalex,76,4827572,"['r&b en espanol', 'reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+d4vd,76,2545246,['bedroom pop'],2024-05-14
+Dr. Dre,76,11621860,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",2024-05-14
+Chencho Corleone,76,908247,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",2024-05-14
+Shaboozey,76,274667,['pop rap'],2024-05-14
+Kacey Musgraves,76,1404059,"['classic texas country', 'contemporary country', 'country dawn']",2024-05-14
+Jelly Roll,75,3499045,"['country rap', 'nashville hip hop', 'tennessee hip hop']",2024-05-14
+DaBaby,75,11899371,"['hip hop', 'north carolina hip hop', 'pop rap', 'rap', 'trap']",2024-05-14
+Lil Tjay,75,8373281,"['brooklyn drill', 'melodic rap', 'nyc rap', 'rap']",2024-05-14
+Ayra Starr,75,2826501,['afrobeats'],2024-05-14
+Quavo,75,7330858,"['atl hip hop', 'melodic rap', 'rap', 'trap']",2024-05-14
+G-Eazy,75,5275776,"['indie pop rap', 'oakland hip hop', 'pop rap', 'rap']",2024-05-14
+Emilia,75,2828280,['pop argentino'],2024-05-14
+The Smiths,75,5644125,"['madchester', 'new wave', 'permanent wave', 'rock', 'uk post-punk']",2024-05-14
+KHEA,75,5442351,"['argentine hip hop', 'trap argentino', 'trap latino', 'trap triste', 'urbano latino']",2024-05-14
+Ludovico Einaudi,75,3403414,"['compositional ambient', 'neo-classical']",2024-05-14
+Bon Jovi,75,13162753,"['glam metal', 'rock']",2024-05-14
+El Alfa,75,3389060,"['dembow', 'rap dominicano', 'trap latino', 'urbano latino']",2024-05-14
+NLE Choppa,75,8009820,"['memphis hip hop', 'rap']",2024-05-14
+Billy Joel,75,5912789,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",2024-05-14
+Isabel LaRosa,75,1385285,"['dark r&b', 'hyperpop', 'sped up']",2024-05-14
+Sexyy Red,75,885564,['trap queen'],2024-05-14
+Becky G,75,14473552,"['latin pop', 'latin viral pop', 'rap latina', 'reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Phoebe Bridgers,74,2357606,"['indie pop', 'la indie', 'pov: indie']",2024-05-14
+Key Glock,74,1984221,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2024-05-14
+Tyler Childers,74,2383247,"['kentucky indie', 'kentucky roots', 'outlaw country']",2024-05-14
+Christina Aguilera,74,8169586,"['dance pop', 'pop']",2024-05-14
+Latto,74,1592400,['trap queen'],2024-05-14
+Danny Ocean,74,5378262,"['pop venezolano', 'reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Blessd,74,3851904,"['reggaeton', 'urbano latino']",2024-05-14
+Baby Keem,74,2298695,"['hip hop', 'rap']",2024-05-14
+Jhené Aiko,74,7644580,['r&b'],2024-05-14
+Dave,74,4806748,['uk hip hop'],2024-05-14
+Chief Keef,74,4797215,"['chicago bop', 'chicago drill', 'chicago rap', 'drill', 'hip hop', 'rap', 'trap']",2024-05-14
+Ke Personajes,74,3622743,['cumbia pop'],2024-05-14
+Eslabon Armado,74,5463789,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",2024-05-14
+David Bowie,74,10366587,"['art rock', 'classic rock', 'glam rock', 'permanent wave', 'rock']",2024-05-14
+ILLIT,74,775925,['5th gen k-pop'],2024-05-14
+Reik,74,8658255,"['latin arena pop', 'latin pop', 'mexican pop', 'reggaeton']",2024-05-14
+Panic! At The Disco,74,12137414,"['modern rock', 'pop']",2024-05-14
+Lily-Rose Depp,74,113139,['pop'],2024-05-14
+Tito Double P,74,850774,['corrido'],2024-05-14
+Rich The Kid,74,3280239,"['atl hip hop', 'melodic rap', 'plugg', 'rap', 'trap']",2024-05-14
+U2,74,12075130,"['irish rock', 'permanent wave', 'rock']",2024-05-14
+Dímelo Flow,73,435360,"['reggaeton', 'reggaeton flow', 'urbano latino']",2024-05-14
+David Kushner,73,2144201,"['gen z singer-songwriter', 'singer-songwriter pop']",2024-05-14
+Mark Ambor,73,342422,['singer-songwriter pop'],2024-05-14
+Darell,73,4362108,"['latin hip hop', 'reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Luke Bryan,73,8558915,"['contemporary country', 'country', 'country road', 'modern country rock']",2024-05-14
+Whitney Houston,73,10020388,"['dance pop', 'pop']",2024-05-14
+Rvssian,73,2465074,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",2024-05-14
+JID,73,1727975,"['hip hop', 'pop rap', 'rap', 'underground hip hop']",2024-05-14
+Alec Benjamin,73,5029410,"['alt z', 'pop', 'pov: indie']",2024-05-14
+Gucci Mane,73,5414140,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2024-05-14
+Calle 24,73,940722,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",2024-05-14
+Kings of Leon,73,5329066,"['modern rock', 'rock']",2024-05-14
+Sleepy Hallow,73,1937417,"['brooklyn drill', 'nyc rap']",2024-05-14
+ZAYN,73,22854503,"['pop', 'uk pop']",2024-05-14
+beabadoobee,73,3463974,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",2024-05-14
+Bruce Springsteen,73,6216343,"['heartland rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter']",2024-05-14
+Eden Muñoz,73,1622675,"['corrido', 'musica mexicana', 'norteno', 'sierreno']",2024-05-14
+Charli XCX,73,3137165,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",2024-05-14
+The Police,73,6031894,"['album rock', 'classic rock', 'permanent wave', 'rock']",2024-05-14
+Daryl Hall & John Oates,73,2387315,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']",2024-05-14
+Skrillex,73,7561388,"['brostep', 'complextro', 'edm', 'electro', 'pop dance']",2024-05-14
+Migos,72,13747973,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'trap']",2024-05-14
+Moneybagg Yo,72,4445910,"['memphis hip hop', 'rap', 'southern hip hop', 'tennessee hip hop', 'trap']",2024-05-14
+Pablo Chill-E,72,1327215,"['trap chileno', 'urbano chileno', 'urbano latino']",2024-05-14
+Bryan Adams,72,3569327,"['canadian pop', 'canadian singer-songwriter', 'classic canadian rock', 'heartland rock', 'mellow gold', 'soft rock']",2024-05-14
+MEDUZA,72,754517,"['edm', 'pop dance', 'pop house', 'uk dance']",2024-05-14
+Bon Iver,72,3569062,"['chamber pop', 'eau claire indie', 'indie folk', 'melancholia', 'modern rock']",2024-05-14
+Phil Collins,72,5775979,"['rock drums', 'soft rock']",2024-05-14
+Gracie Abrams,72,1766646,['alt z'],2024-05-14
+Stevie Wonder,72,6397090,"['motown', 'soul']",2024-05-14
+Lil Nas X,72,12402014,['lgbtq+ hip hop'],2024-05-14
+Lay Bankz,72,346904,['jersey club'],2024-05-14
+Luar La L,72,1119262,"['trap latino', 'urbano latino']",2024-05-14
+2 Chainz,72,7969303,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2024-05-14
+Bailey Zimmerman,72,1105811,"['contemporary country', 'modern country pop']",2024-05-14
+Kidd Voodoo,72,250276,['urbano chileno'],2024-05-14
+Lauv,72,6162295,['pop'],2024-05-14
+Jungle,72,1352224,"['indie soul', 'uk contemporary r&b']",2024-05-14
+Edgardo Nuñez,72,1808376,"['corrido', 'corridos tumbados', 'sad sierreno', 'sierreno']",2024-05-14
+Dasha,72,126117,[],2024-05-14
+DJ Khaled,72,11273451,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",2024-05-14
+Montell Fish,72,1474259,['pittsburgh rap'],2024-05-14
+Cody Johnson,72,1257012,"['classic texas country', 'contemporary country', 'modern country pop']",2024-05-14
+ATL Jacob,72,30475,[],2024-05-14
+The Academy: Segunda Misión,72,84608,[],2024-05-14
+4batz,71,511292,[],2024-05-14
+TOTO,71,2896641,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",2024-05-14
+Jasiel Nuñez,71,511025,['corrido'],2024-05-14
+HARDY,71,902226,"['contemporary country', 'modern country pop']",2024-05-14
+Eternxlkz,71,147080,['krushfunk'],2024-05-14
+Depeche Mode,71,6254491,"['dance rock', 'new romantic', 'new wave', 'permanent wave', 'rock', 'synthpop']",2024-05-14
+Michael Marcagi,71,146257,[],2024-05-14
+Kehlani,71,7608120,"['pop', 'r&b', 'rap']",2024-05-14
+Sade,71,3820870,"['british soul', 'sophisti-pop']",2024-05-14
+Tears For Fears,71,3399285,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'rock', 'sophisti-pop', 'synthpop']",2024-05-14
+Dolly Parton,71,2465926,"['classic country pop', 'country', 'country dawn']",2024-05-14
+That Mexican OT,71,777935,['texas latin rap'],2024-05-14
+DJ FKU,71,179718,['gym phonk'],2024-05-14
+Ice Spice,71,3508817,['bronx drill'],2024-05-14
+GloRilla,71,701087,['southern hip hop'],2024-05-14
+LXNGVX,71,238241,"['gym phonk', 'krushfunk']",2024-05-14
+Journey,71,5427682,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",2024-05-14
+"Earth, Wind & Fire",71,4226804,"['disco', 'funk', 'jazz funk', 'soul']",2024-05-14
+Jordan Davis,71,1221732,['contemporary country'],2024-05-14
+Flo Milli,71,1068839,['viral rap'],2024-05-14
+JC Reyes,71,641203,['urbano espanol'],2024-05-14
+Kane Brown,71,5366752,"['black americana', 'contemporary country', 'country', 'country road']",2024-05-14
+RM,71,16444374,['k-rap'],2024-05-14
+Tokischa,71,1096305,"['rap latina', 'trap dominicano']",2024-05-14
+Los Dareyes De La Sierra,70,1031318,"['classic sierreno', 'corrido', 'corridos tumbados', 'musica mexicana', 'sierreno']",2024-05-14
+ScHoolboy Q,70,4688039,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2024-05-14
+Lyanno,70,1354298,"['reggaeton', 'reggaeton flow', 'trap boricua', 'trap latino', 'urbano latino']",2024-05-14
+Destroy Lonely,70,1096210,['rage rap'],2024-05-14
+Noah Cyrus,70,1293397,"['alt z', 'pop']",2024-05-14
+Jessie Murph,70,949803,"['modern country pop', 'singer-songwriter pop']",2024-05-14
+Alesso,70,3875219,"['dance pop', 'edm', 'pop', 'pop dance', 'progressive electro house']",2024-05-14
+Bhavi,70,1366723,"['argentine hip hop', 'trap argentino', 'trap triste']",2024-05-14
+Jonas Blue,70,3729849,"['pop', 'pop dance', 'tropical house', 'uk dance']",2024-05-14
+George Strait,70,4254435,"['contemporary country', 'country', 'country road']",2024-05-14
+Rich Amiri,70,400145,['rage rap'],2024-05-14
+George Michael,70,4754158,['new wave pop'],2024-05-14
+Asake,70,3275069,"['afrobeats', 'nigerian pop']",2024-05-14
+AURORA,69,3587862,"['art pop', 'norwegian pop']",2024-05-14
+a-ha,69,2258996,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'synthpop']",2024-05-14
+Lunay,69,9403402,"['reggaeton', 'reggaeton flow', 'trap latino', 'urbano latino']",2024-05-14
+Vintage Culture,69,1802404,['brazilian edm'],2024-05-14
+Coi Leray,69,784946,"['new jersey underground rap', 'trap queen']",2024-05-14
+Ski Mask The Slump God,69,5759744,"['hip hop', 'miami hip hop', 'pop rap', 'rap', 'trap', 'underground hip hop']",2024-05-14
+Tim McGraw,69,4479723,"['contemporary country', 'country', 'country road']",2024-05-14
+iZaak,69,153704,"['reggaeton flow', 'trap latino', 'urbano latino']",2024-05-14
+Galantis,69,3337665,"['dance pop', 'edm', 'pop', 'pop dance']",2024-05-14
+Joel De La P,69,95616,['corrido'],2024-05-14
+YG,69,3250982,"['cali rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",2024-05-14
+Alan Jackson,69,2665552,['country'],2024-05-14
+Toby Keith,69,2367755,"['classic oklahoma country', 'contemporary country', 'country', 'country road']",2024-05-14
+Lainey Wilson,69,670040,"['contemporary country', 'modern country pop']",2024-05-14
+Joey Bada$$,69,3433209,"['conscious hip hop', 'hip hop', 'rap']",2024-05-14
+Kenny Chesney,69,4385292,"['contemporary country', 'country', 'country road', 'modern country rock']",2024-05-14
+Jay Rock,69,1466519,"['conscious hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",2024-05-14
+Thomas Rhett,69,4663657,"['contemporary country', 'country', 'country road', 'modern country rock']",2024-05-14
+Neton Vega,69,44649,['corrido'],2024-05-14
+Shania Twain,69,3011700,"['canadian country', 'canadian pop', 'contemporary country', 'country', 'country dawn']",2024-05-14
+Belinda,69,2094819,"['latin arena pop', 'latin pop', 'mexican pop']",2024-05-14
+Alvaro Diaz,69,648619,"['trap boricua', 'urbano latino']",2024-05-14
+Kordhell,69,1229441,['drift phonk'],2024-05-14
+Swift 047,68,1248,[],2024-05-14
+Uzielito Mix,68,593514,"['perreo', 'reggaeton mexicano']",2024-05-14
+Roxette,68,2194699,"['europop', 'swedish pop', 'synthpop']",2024-05-14
+Chris Jedi,68,2607083,"['reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+xxanteria,68,298465,"['krushfunk', 'sped up']",2024-05-14
+Kevin AMF,68,331913,[],2024-05-14
+Neo Pistea,68,1286168,"['argentine hip hop', 'trap argentino']",2024-05-14
+Tracy Chapman,68,1729451,"['folk', 'lilith', 'singer-songwriter', ""women's music""]",2024-05-14
+Gaby Music,68,37829,"['pop reggaeton', 'trap latino', 'urbano latino']",2024-05-14
+Good Neighbours,68,73747,[],2024-05-14
+Prince,68,7236878,"['funk', 'funk rock', 'minneapolis sound', 'rock', 'synth funk']",2024-05-14
+Villano Antillano,68,228306,"['rap boricua', 'urbano latino']",2024-05-14
+Sting,68,3276308,"['permanent wave', 'soft rock', 'sophisti-pop']",2024-05-14
+ERNEST,68,151902,['modern country pop'],2024-05-14
+42 Dugg,68,1110773,"['detroit trap', 'southern hip hop', 'trap']",2024-05-14
+Rainbow Kitten Surprise,68,1122155,['pov: indie'],2024-05-14
+Annie Lennox,68,1517350,"['new romantic', 'new wave', 'new wave pop', 'singer-songwriter', 'soft rock', 'synthpop']",2024-05-14
+The Alchemist,68,656621,"['alternative hip hop', 'drumless hip hop', 'hip hop', 'instrumental hip hop', 'west coast rap']",2024-05-14
+Joyner Lucas,68,2224578,"['boston hip hop', 'hip hop', 'pop rap', 'rap']",2024-05-14
+Myles Smith,68,496835,['singer-songwriter pop'],2024-05-14
+Dylan Scott,68,1649198,"['contemporary country', 'country road', 'modern country rock']",2024-05-14
+NAV,68,3449231,"['canadian hip hop', 'canadian trap', 'melodic rap', 'rap', 'trap']",2024-05-14
+Van Halen,68,5948896,"['album rock', 'classic rock', 'hard rock', 'rock']",2024-05-14
+Mesita,68,394461,['rap uruguayo'],2024-05-14
+iann dior,68,1836370,['melodic rap'],2024-05-14
+sped up nightcore,68,168009,"['nightcore', 'sped up']",2024-05-14
+Thundercat,68,1316655,"['afrofuturism', 'escape room', 'indie soul']",2024-05-14
+Kate Bush,67,1921872,"['art pop', 'art rock', 'baroque pop', 'new wave pop', 'permanent wave', 'piano rock', 'singer-songwriter']",2024-05-14
+BossMan Dlow,67,157448,[],2024-05-14
+Baby Tate,67,471184,['trap queen'],2024-05-14
+Mc Delux,67,112106,"['funk mandelao', 'funk mtg', 'phonk brasileiro']",2024-05-14
+El Malilla,67,539495,"['reggaeton mexicano', 'urbano mexicano']",2024-05-14
+El Bogueto,67,469367,['reggaeton mexicano'],2024-05-14
+Modern Talking,67,1649400,"['europop', 'synthpop']",2024-05-14
+Crazy Mano,67,64039,['phonk brasileiro'],2024-05-14
+Young Nudy,67,1458699,"['pluggnb', 'rap', 'southern hip hop', 'trap']",2024-05-14
+Warren Zeiders,67,643008,['modern country pop'],2024-05-14
+Seven Kayne,67,1349338,"['argentine hip hop', 'trap argentino', 'trap latino', 'trap triste']",2024-05-14
+Mc Menor Do Alvorada,67,24990,['phonk brasileiro'],2024-05-14
+Yahir Saldivar,67,193685,[],2024-05-14
+Dan + Shay,67,3143094,"['contemporary country', 'country', 'country road']",2024-05-14
+Bryan Martin,67,154082,['modern country pop'],2024-05-14
+Bas,67,568305,"['queens hip hop', 'rap', 'sudanese hip hop', 'sudanese pop', 'underground hip hop']",2024-05-14
+Daveed Diggs,67,111049,"['alternative hip hop', 'show tunes']",2024-05-14
+Carrie Underwood,67,5899289,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'dance pop', 'pop']",2024-05-14
+Victony,67,861829,"['afrobeats', 'nigerian pop']",2024-05-14
+Oscar Ortiz,67,150428,['corrido'],2024-05-14
+Young Cister,67,503824,"['trap chileno', 'urbano chileno']",2024-05-14
+Stephanie Beatriz,67,55121,"['hollywood', 'movie tunes']",2024-05-14
+Megan Moroney,67,323755,"['contemporary country', 'modern country pop']",2024-05-14
+Tee Grizzley,67,3698412,"['detroit hip hop', 'detroit trap', 'rap', 'southern hip hop', 'trap']",2024-05-14
+Dave Stewart,67,39025,"['new wave pop', 'rock keyboard']",2024-05-14
+Dove Cameron,67,4917151,['pop'],2024-05-14
+Brooks & Dunn,67,2846727,"['contemporary country', 'country', 'country road']",2024-05-14
+The Clash,67,2716860,"['alternative rock', 'permanent wave', 'punk', 'rock']",2024-05-14
+Panter Bélico,67,840725,"['corrido', 'norteno', 'sierreno']",2024-05-14
+Sevdaliza,67,462676,"['alternative r&b', 'art pop', 'escape room', 'persian electronic']",2024-05-14
+Clave Especial,66,102568,['corrido'],2024-05-14
+Seyi Vibez,66,1302502,"['afrobeats', 'nigerian pop']",2024-05-14
+Foreigner,66,3135836,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",2024-05-14
+The Outfield,66,643789,"['album rock', 'power pop']",2024-05-14
+Easykid,66,141831,"['trap argentino', 'trap chileno']",2024-05-14
+INTERWORLD,66,748061,['phonk brasileiro'],2024-05-14
+1nonly,66,992826,['aesthetic rap'],2024-05-14
+Miranda Lambert,66,3548819,"['contemporary country', 'country', 'country dawn', 'country road']",2024-05-14
+Polaris,66,12178,[],2024-05-14
+Skillibeng,66,357545,"['dancehall', 'jamaican dancehall', 'traphall', 'trinibad']",2024-05-14
+TOLCHONOV,66,40997,"['gym phonk', 'zxc']",2024-05-14
+DrefQuila,66,1016813,"['reggaeton chileno', 'trap chileno', 'urbano chileno']",2024-05-14
+NUEKI,66,245820,['phonk brasileiro'],2024-05-14
+Tom Petty,66,2514294,"['album rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",2024-05-14
+Duran Duran,66,2969504,"['album rock', 'dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'synthpop']",2024-05-14
+Joaquin Medina,66,56142,['reggaeton mexicano'],2024-05-14
+INXS,66,2629701,"['australian rock', 'dance rock', 'funk rock', 'new romantic', 'new wave', 'rock']",2024-05-14
+Eurythmics,66,1982060,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'sophisti-pop', 'synthpop']",2024-05-14
+Nate Smith,66,318898,"['contemporary country', 'modern country pop']",2024-05-14
+Victor Mendivil,66,85194,[],2024-05-14
+Old Dominion,66,1505292,"['contemporary country', 'country', 'country road', 'modern country rock']",2024-05-14
+Victoria Monét,66,1039514,"['alternative r&b', 'r&b']",2024-05-14
+UB40,66,2301303,"['reggae fusion', 'uk reggae']",2024-05-14
+Yeri Mua,66,1460251,['urbano mexicano'],2024-05-14
+KAYTRANADA,66,1409949,"['alternative r&b', 'escape room', 'indie soul', 'lgbtq+ hip hop']",2024-05-14
+kets4eki,65,352663,['scenecore'],2024-05-14
+Tucker Wetmore,65,144480,['modern country pop'],2024-05-14
+Parker McCollum,65,472252,"['classic texas country', 'contemporary country', 'modern country pop', 'texas country']",2024-05-14
+Isaiah Rashad,65,1426357,"['hip hop', 'rap', 'tennessee hip hop', 'underground hip hop']",2024-05-14
+Adrian L Santos,65,140023,"['corrido', 'sad sierreno']",2024-05-14
+MC MN,65,74671,"['funk mtg', 'phonk brasileiro']",2024-05-14
+ZWE1HVNDXR,65,193673,['ukrainian phonk'],2024-05-14
+Zacari,65,99258,[],2024-05-14
+Pooh Shiesty,65,1587477,"['memphis hip hop', 'southern hip hop', 'tennessee hip hop', 'trap']",2024-05-14
+Bonnie Tyler,65,1978759,"['europop', 'new wave pop', 'soft rock']",2024-05-14
+Dylan Gossett,65,223082,['modern country pop'],2024-05-14
+Chicago,65,4021061,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",2024-05-14
+Sebastian Esquivel,65,143521,['corrido'],2024-05-14
+SiR,65,1018983,"['alternative r&b', 'la pop']",2024-05-14
+Koe Wetzel,65,670055,['classic texas country'],2024-05-14
+S3BZS,65,155539,['phonk brasileiro'],2024-05-14
+Men At Work,65,1258050,"['album rock', 'australian rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock']",2024-05-14
+Cher,65,3309955,"['dance pop', 'pop']",2024-05-14
+Blxst,65,478944,"['pop rap', 'westcoast flow']",2024-05-14
+Eugenio Esquivel,65,130481,[],2024-05-14
+Milli Hughes,65,1653,['white noise'],2024-05-14
+James Blake,65,1433951,"['art pop', 'indie soul', 'indietronica', 'uk alternative pop']",2024-05-14
+Idina Menzel,65,465613,"['hollywood', 'movie tunes', 'show tunes']",2024-05-14
+Nardo Wick,65,1155006,"['florida drill', 'florida rap', 'southern hip hop']",2024-05-14
+Fivio Foreign,65,1300443,"['brooklyn drill', 'new york drill', 'trap']",2024-05-14
+Los Esquivel,65,140,[],2024-05-14
+Rob49,65,183022,['new orleans rap'],2024-05-14
+RXDXVIL,64,131646,['gym phonk'],2024-05-14
+CURSEDEVIL,64,215633,['gym phonk'],2024-05-14
+Sam Barber,64,336060,['modern country pop'],2024-05-14
+Bibi Babydoll,64,248566,['latin tek'],2024-05-14
+Darius Rucker,64,2543187,"['black americana', 'contemporary country', 'country', 'country road', 'modern country rock']",2024-05-14
+Doechii,64,459898,['alternative r&b'],2024-05-14
+Survivor,64,1108706,"['album rock', 'glam metal', 'hard rock', 'soft rock']",2024-05-14
+Aqua,64,611062,"['bubblegum dance', 'eurodance', 'europop']",2024-05-14
+Skorde,64,108972,"['chill breakcore', 'gym phonk']",2024-05-14
+Heart,64,2549252,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'heartland rock', 'mellow gold', 'new wave pop', 'rock', 'singer-songwriter', 'soft rock']",2024-05-14
+Kyle Richh,64,311046,['new york drill'],2024-05-14
+Gonzy,64,64800,['urbano latino'],2024-05-14
+isq,64,21118,['krushfunk'],2024-05-14
+yatashigang,64,80431,['gym phonk'],2024-05-14
+Slowboy,64,116311,['phonk brasileiro'],2024-05-14
+Paul Simon,64,2288754,"['classic rock', 'folk', 'folk rock', 'mellow gold', 'permanent wave', 'rock', 'singer-songwriter', 'soft rock']",2024-05-14
+Yung Gravy,64,1650781,"['meme rap', 'minnesota hip hop']",2024-05-14
+TRASHXRL,64,148897,['phonk brasileiro'],2024-05-14
+Alexander Stewart,63,1006929,['singer-songwriter pop'],2024-05-14
+Narvent,63,54821,[],2024-05-14
+Joan Jett & the Blackhearts,63,820041,"['glam punk', 'rock']",2024-05-14
+Ari Abdul,63,436954,"['dark r&b', 'sped up']",2024-05-14
+Sofia Carson,63,3578617,['pop'],2024-05-14
+ARIZONATEARS,63,7693,[],2024-05-14
+Chris Young,63,2754369,"['contemporary country', 'country', 'country road']",2024-05-14
+Beck,63,1536382,"['alternative rock', 'anti-folk', 'permanent wave', 'rock', 'slacker rock']",2024-05-14
+Dj Samir,63,69722,['remix brasileiro'],2024-05-14
+Tyler Hubbard,63,173621,"['contemporary country', 'modern country pop']",2024-05-14
+Remi Wolf,63,472031,"['indie pop', 'modern alternative pop']",2024-05-14
+BIA,63,569944,"['rap latina', 'trap queen']",2024-05-14
+Angus & Julia Stone,63,1255340,"['australian indie folk', 'indie folk']",2024-05-14
+Kenny Loggins,63,1076194,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'new wave pop', 'singer-songwriter', 'soft rock', 'yacht rock']",2024-05-14
+The Chicks,63,1414459,"['contemporary country', 'country', 'country dawn']",2024-05-14
+OHGEESY,63,329130,['cali rap'],2024-05-14
+The Red Clay Strays,63,262830,[],2024-05-14
+Oliver Anthony Music,63,821355,['modern country pop'],2024-05-14
+Shoreline Mafia,63,1177251,['cali rap'],2024-05-14
+MoonDeity,63,457809,['gym phonk'],2024-05-14
+Javier Rosas Y Su Artillería Pesada,63,1057203,"['banda', 'corrido', 'musica mexicana', 'norteno']",2024-05-14
+Leony,63,144801,['german pop'],2024-05-14
+VØJ,63,205010,['traprun'],2024-05-14
+Josh Meloy,63,106528,"['classic oklahoma country', 'modern country pop', 'oklahoma country', 'texas country']",2024-05-14
+Dj Brunin XM,63,81792,['funk mtg'],2024-05-14
+Ghostface Killah,63,894362,"['east coast hip hop', 'hardcore hip hop']",2024-05-14
+The War And Treaty,63,108944,['black americana'],2024-05-14
+Richard Marx,63,1305381,"['new wave pop', 'soft rock']",2024-05-14
+Ela Taubert,63,154993,['colombian pop'],2024-05-14
+Will Smith,63,924799,"['hip hop', 'pop rap']",2024-05-14
+Zoe Wees,63,473939,['german pop'],2024-05-14
+Chase Matthew,63,260528,['modern country pop'],2024-05-14
+Paris Paloma,62,367346,['singer-songwriter pop'],2024-05-14
+Yexel,62,2305,[],2024-05-14
+Auli'i Cravalho,62,149857,['movie tunes'],2024-05-14
+Stevie Nicks,62,1580360,['heartland rock'],2024-05-14
+Kristen Bell,62,109361,['movie tunes'],2024-05-14
+REO Speedwagon,62,2523210,"['album rock', 'classic rock', 'glam metal', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",2024-05-14
+Jenn Carter,62,214787,['new york drill'],2024-05-14
+vtze archive,62,34979,['phonk brasileiro'],2024-05-14
+Skilla Baby,62,121952,['detroit hip hop'],2024-05-14
+Toosii,62,1760191,['north carolina hip hop'],2024-05-14
+Renn,62,7812,[],2024-05-14
+Christopher Jackson,62,50499,['show tunes'],2024-05-14
+Randy Travis,62,1737020,"['contemporary country', 'country', 'country gospel', 'country road']",2024-05-14
+Chimbala,62,593736,"['dembow', 'rap dominicano']",2024-05-14
+6YNTHMANE,62,145832,"['aggressive phonk', 'polish phonk']",2024-05-14
+John Mellencamp,62,1689382,"['album rock', 'classic rock', 'country rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",2024-05-14
+Dyan Dxddy,62,73169,['phonk brasileiro'],2024-05-14
+JT,62,134552,[],2024-05-14
+Memphis Cult,62,186487,['memphis phonk'],2024-05-14
+Paul Wall,62,828285,"['chopped and screwed', 'crunk', 'dirty south rap', 'houston rap']",2024-05-14
+DVRST,62,481035,"['chill phonk', 'drift phonk']",2024-05-14
+Josh Ross,62,86434,['modern country pop'],2024-05-14
+Hayley Williams,61,716760,['art pop'],2024-05-14
+Bryartz,61,23155,['trap chileno'],2024-05-14
+Caleb Hearn,61,224940,['singer-songwriter pop'],2024-05-14
+Carly Pearce,61,422741,"['contemporary country', 'country', 'country road']",2024-05-14
+Fenix Flexin,61,119137,['cali rap'],2024-05-14
+Chayce Beckham,61,111703,['modern country pop'],2024-05-14
+Larry June,61,378761,['cali rap'],2024-05-14
+2KE,61,64883,"['gym phonk', 'krushfunk']",2024-05-14
+Corey Kent,61,154970,"['modern country pop', 'texas country']",2024-05-14
+Alphaville,61,809139,"['new romantic', 'new wave pop', 'synthpop']",2024-05-14
+Soft Cell,61,689105,"['new romantic', 'new wave', 'new wave pop', 'synthpop']",2024-05-14
+Olivia O'Brien,61,2028811,"['alt z', 'pop']",2024-05-14
+310babii,61,98677,[],2024-05-14
+$werve,61,214348,"['aggressive phonk', 'drift phonk', 'gym phonk', 'krushfunk']",2024-05-14
+Victor Cibrian,61,375022,"['corrido', 'corridos tumbados', 'sierreno']",2024-05-14
+Mandy Moore,61,730435,"['dance pop', 'hollywood', 'neo mellow', 'post-teen pop']",2024-05-14
+SPLYXER,61,12109,['memphis phonk'],2024-05-14
+Bilal,61,282918,['neo soul'],2024-05-14
+Brandi Carlile,61,813566,"['acoustic pop', 'ectofolk', 'folk', 'indie folk', 'lilith', 'modern folk rock', 'new americana']",2024-05-14
+EBK Jaaybo,61,185886,[],2024-05-14
+41,61,181148,['new york drill'],2024-05-14
+MC PR,61,74864,"['brega funk', 'funk mtg', 'funk viral']",2024-05-14
+City Girls,61,2568590,"['scam rap', 'trap queen']",2024-05-14
+Irene Cara,61,438545,"['disco', 'new romantic', 'new wave pop', 'soft rock']",2024-05-14
+Sampha,61,751781,"['alternative r&b', 'indie soul']",2024-05-14
+TaTa,61,150566,['new york drill'],2024-05-14
+Sara Bareilles,61,1921262,"['acoustic pop', 'ectofolk', 'lilith', 'neo mellow', 'pop rock', 'post-teen pop']",2024-05-14
+VISXGE,61,83959,['gym phonk'],2024-05-14
+SXMPRA,61,265661,['drift phonk'],2024-05-14
+Groove Dealers,61,29752,"['memphis phonk', 'russian edm']",2024-05-14
+Ole 60,61,128045,['modern country pop'],2024-05-14
+ZODIVK,61,92744,['gym phonk'],2024-05-14
+akiaura,61,88675,['dreampunk'],2024-05-14
+Sheck Wes,60,1591238,"['pop rap', 'rap', 'trap']",2024-05-14
+Launch13,60,12778,['phonk brasileiro'],2024-05-14
+Dxrk ダーク,60,509482,['drift phonk'],2024-05-14
+Don Henley,60,1569273,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock', 'yacht rock']",2024-05-14
+Rodricci,60,7901,['gym phonk'],2024-05-14
+Kameron Marlowe,60,160363,"['contemporary country', 'country pop', 'modern country pop']",2024-05-14
+IVOXYGEN,60,144283,[],2024-05-14
+Travis Tritt,60,1382276,"['contemporary country', 'country', 'country road', 'outlaw country']",2024-05-14
+Huey Lewis & The News,60,1587744,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'new romantic', 'new wave pop', 'rock', 'singer-songwriter', 'soft rock']",2024-05-14
+Bronski Beat,60,575690,"['hi-nrg', 'new romantic', 'new wave', 'new wave pop', 'sophisti-pop', 'synthpop']",2024-05-14
+Key-Key,60,16494,['raspe'],2024-05-14
+berlioz,60,342999,['jazz house'],2024-05-14
+Europe,60,1538594,"['album rock', 'glam metal', 'hard rock', 'rock', 'swedish hard rock', 'swedish melodic rock']",2024-05-14
+Joe Diffie,60,802714,"['classic oklahoma country', 'contemporary country', 'country', 'country road']",2024-05-14
+Mitchell Tenpenny,60,506352,"['contemporary country', 'country road', 'heartland rock', 'modern country rock']",2024-05-14
+Sadfriendd,60,97887,"['aesthetic rap', 'gym phonk', 'hyperpop']",2024-05-14
+DJ NK3,60,70931,['phonk brasileiro'],2024-05-14
+Charles Wesley Godwin,60,140006,['modern country pop'],2024-05-14
+Jordana,60,110709,['modern indie pop'],2024-05-14
+Alabama,60,1381097,"['contemporary country', 'country', 'country road', 'country rock']",2024-05-14
+Hensonn,60,223585,"['drift phonk', 'ukrainian phonk']",2024-05-14
+Ariana DeBose,60,28742,['movie tunes'],2024-05-14
+The Human League,59,1130341,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'sophisti-pop', 'synthpop']",2024-05-14
+Billy Ray Cyrus,59,243799,['country rock'],2024-05-14
+STM,59,8994,['emoplugg'],2024-05-14
+Swizz Beatz,59,426909,"['battle rap', 'dirty south rap', 'southern hip hop', 'trap']",2024-05-14
+SXID,59,70261,['gym phonk'],2024-05-14
+LeAnn Rimes,59,1353563,"['contemporary country', 'country', 'country dawn', 'country road']",2024-05-14
+Jonathan Groff,59,119744,"['broadway', 'hollywood', 'movie tunes', 'show tunes']",2024-05-14
+Katrina & The Waves,59,99491,['new wave pop'],2024-05-14
+KZA Produções,59,5309,[],2024-05-14
+Maury,59,6036,[],2024-05-14
+Southside,59,112382,"['atl hip hop', 'atl trap']",2024-05-14
+Belinda Carlisle,59,851913,"['new romantic', 'new wave pop', 'soft rock']",2024-05-14
+Kim Carnes,59,355866,"['new romantic', 'new wave pop', 'soft rock']",2024-05-14
+Juelz Santana,59,829645,"['gangster rap', 'harlem hip hop', 'hip pop', 'nyc rap', 'pop rap', 'trap']",2024-05-14
+SleazyWorld Go,59,373981,[],2024-05-14
+Remp,59,13136,[],2024-05-14
+TRXVELER,59,49404,['gym phonk'],2024-05-14
+NXVAMANE,59,66192,['gym phonk'],2024-05-14
+LONOWN,59,9430,['chill phonk'],2024-05-14
+Cutting Crew,59,431694,"['album rock', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",2024-05-14
+03 Greedo,59,474270,"['cali rap', 'melodic rap']",2024-05-14
+Kaliii,59,404622,"['rap', 'viral rap']",2024-05-14
+Conway the Machine,59,314818,"['alternative hip hop', 'boom bap', 'buffalo hip hop', 'upstate ny rap']",2024-05-14
+Reba McEntire,58,2022678,"['classic oklahoma country', 'contemporary country', 'country', 'country dawn', 'country road']",2024-05-14
+MUPP,58,153440,"['drift phonk', 'hyperpop']",2024-05-14
+0to8,58,101406,"['gym phonk', 'phonk brasileiro']",2024-05-14
+Cameron Boyce,58,79167,['movie tunes'],2024-05-14
+Berlin,58,543964,"['new romantic', 'new wave pop', 'synthpop']",2024-05-14
+Tyler Braden,58,108542,"['country pop', 'modern country pop']",2024-05-14
+glichery,58,83269,['gym phonk'],2024-05-14
+TXVSTERPLAYA,58,6938,[],2024-05-14
+DJ Drama,58,1419547,"['dirty south rap', 'philly rap', 'southern hip hop', 'trap']",2024-05-14
+KSLV Noh,58,374292,['drift phonk'],2024-05-14
+Nicole Scherzinger,58,2389149,"['dance pop', 'pop', 'post-teen pop']",2024-05-14
+Scotty McCreery,58,980573,"['contemporary country', 'country', 'country road', 'modern country rock']",2024-05-14
+Aliyah's Interlude,58,196173,[],2024-05-14
+Encanto - Cast,58,81300,['movie tunes'],2024-05-14
+High School Musical Cast,58,1375271,"['movie tunes', 'post-teen pop']",2024-05-14
+KUTE,58,167587,"['aggressive phonk', 'drift phonk', 'gym phonk']",2024-05-14
+Wish - Cast,58,13820,[],2024-05-14
+The Noisy Outdoors,58,708,"['rain', 'white noise']",2024-05-14
+HISTED,58,25807,[],2024-05-14
+Los Caimanes De Sinaloa,58,82641,['corrido'],2024-05-14
+Laura Branigan,58,747156,"['new romantic', 'new wave pop', 'soft rock', 'synthpop']",2024-05-14
+Lupe Borbon y su Blindaje 7,58,26191,['classic sierreno'],2024-05-14
+Booboo Stewart,58,44585,['movie tunes'],2024-05-14
+Faith Hill,58,1820710,"['contemporary country', 'country', 'country dawn', 'country road']",2024-05-14
+sma$her,58,84222,"['gym phonk', 'meme']",2024-05-14
+Jon Batiste,57,469872,['new orleans jazz'],2024-05-14
+DRODi,57,14355,[],2024-05-14
+Deepnoum,57,1402,"['binaural', 'color noise', 'white noise']",2024-05-14
+DJ Dudah,57,66939,['phonk brasileiro'],2024-05-14
+Palaye Royale,57,689235,"['modern alternative rock', 'vegas indie']",2024-05-14
+Young Stoner Life,57,153217,['pop rap'],2024-05-14
+Misa Bee,57,396,['white noise'],2024-05-14
+22Gz,57,497296,"['brooklyn drill', 'nyc rap']",2024-05-14
+Vince Gill,57,584087,"['classic oklahoma country', 'country', 'country road']",2024-05-14
+Danny Elfman,57,410246,"['orchestral soundtrack', 'soundtrack']",2024-05-14
+THEUZ ZL,57,47415,['funk mtg'],2024-05-14
+MC Pequeno Diamante,57,8562,['phonk brasileiro'],2024-05-14
+Yaya Bey,57,92795,"['alternative r&b', 'experimental r&b']",2024-05-14
+Xella Machina,57,424,"['color noise', 'white noise']",2024-05-14
+Redferrin,57,39412,['modern country pop'],2024-05-14
+Trace Adkins,57,2570038,"['contemporary country', 'country', 'country road']",2024-05-14
+dashie,57,35288,"['dariacore', 'hyperpop']",2024-05-14
+Naomi Scott,57,343225,"['movie tunes', 'post-teen pop', 'vapor pop']",2024-05-14
+it's murph,57,45372,['stutter house'],2024-05-14
+Nils Frahm,57,646480,"['compositional ambient', 'electronica', 'neoclassical darkwave']",2024-05-14
+Dylan Marlowe,57,108974,['modern country pop'],2024-05-14
+ONIMXRU,57,214101,['gym phonk'],2024-05-14
+Phonk Killer,57,200469,['phonk brasileiro'],2024-05-14
+Bb trickz,57,127106,[],2024-05-14
+SCXR SOUL,56,74842,"['drift phonk', 'gym phonk']",2024-05-14
+PHOROMANE,56,30287,['phonk brasileiro'],2024-05-14
+g3ox_em,56,146549,[],2024-05-14
+Amanda Reifer,56,11845,['barbadian pop'],2024-05-14
+John Michael Montgomery,56,1020332,"['contemporary country', 'country', 'country road']",2024-05-14
+RAIZHELL,56,121110,"['filthstep', 'gym phonk']",2024-05-14
+George Clinton,56,472904,"['funk', 'p funk', 'soul']",2024-05-14
+MacKenzie Porter,56,62237,"['alberta country', 'canadian contemporary country', 'canadian country', 'contemporary country', 'country pop']",2024-05-14
+DJ RICK 013,56,52152,['gym phonk'],2024-05-14
+Jason Weaver,56,12628,['movie tunes'],2024-05-14
+China Anne McClain,56,676341,['movie tunes'],2024-05-14
+Dwight Yoakam,56,654687,"['bakersfield sound', 'country', 'country rock']",2024-05-14
+Ysrael Barajas,56,195894,['corrido'],2024-05-14
+YOUTHISENDING,56,56460,['aggressive phonk'],2024-05-14
+Lea Salonga,56,178296,"['movie tunes', 'tagalog worship']",2024-05-14
+Josh Gad,56,36878,"['movie tunes', 'show tunes']",2024-05-14
+Dwayne Johnson,56,303733,[],2024-05-14
+Lily James,56,78881,"['hollywood', 'movie tunes']",2024-05-14
+ISXRO,56,24041,"['aggressive phonk', 'gym phonk']",2024-05-14
+Chase Rice,56,1153706,"['contemporary country', 'country', 'country road', 'modern country rock']",2024-05-14
+ALXIKE,56,9133,[],2024-05-14
+DJ JCK,56,8956,[],2024-05-14
+Diane Guerrero,56,10436,['movie tunes'],2024-05-14
+MRL,56,40685,['phonk brasileiro'],2024-05-14
+Tracy Lawrence,56,1117407,"['arkansas country', 'contemporary country', 'country', 'country road']",2024-05-14
+Cash Cobain,56,42658,['jersey club'],2024-05-14
+Jo Dee Messina,55,779437,"['country', 'country dawn', 'country road']",2024-05-14
+Natura Ferox,55,194,['white noise'],2024-05-14
+Friday Pilots Club,55,91140,"['indie rockism', 'modern alternative rock']",2024-05-14
+Xantesha,55,103698,"['gym phonk', 'phonk brasileiro']",2024-05-14
+Hideyuki Hashimoto,55,27635,['japanese piano'],2024-05-14
+MC Guto VGS,55,26392,['funk mtg'],2024-05-14
+Ghostface Playa,55,250625,['drift phonk'],2024-05-14
+ROLE MODEL,55,419130,"['alt z', 'bedroom pop', 'pov: indie']",2024-05-14
+Dead Or Alive,55,386626,"['hi-nrg', 'new romantic', 'new wave pop', 'synthpop']",2024-05-14
+Priscilla Block,55,139365,"['contemporary country', 'modern country pop']",2024-05-14
+Big Boogie,55,247850,['memphis hip hop'],2024-05-14
+Stephan Moccio,55,45451,['background piano'],2024-05-14
+Ashley Cooke,55,115602,"['contemporary country', 'country pop', 'modern country pop']",2024-05-14
+Alana Springsteen,55,72055,"['contemporary country', 'country pop', 'modern country pop']",2024-05-14
+Sx1nxwy,55,20641,['gym phonk'],2024-05-14
+Mitchell Hope,55,30354,['movie tunes'],2024-05-14
+Jordan Rakei,55,352635,"['indie soul', 'neo r&b']",2024-05-14
+SXCREDMANE,55,59734,"['gym phonk', 'meme']",2024-05-14
+Josh Levi,55,70151,['dark r&b'],2024-05-14
+Randall King,55,99478,"['classic texas country', 'red dirt', 'texas country']",2024-05-14
+Ro$ama,55,8689,[],2024-05-14
+Tink,55,1100276,"['chicago rap', 'drill', 'trap queen']",2024-05-14
+Mc Lullu,55,62206,[],2024-05-14
+Orville Peck,55,380481,"['alternative country', 'queer country']",2024-05-14
+Nascondiglio,55,550,[],2024-05-14
+Molecualar Binary,55,343,['white noise'],2024-05-14
+Trisha Yearwood,55,1168170,"['contemporary country', 'country', 'country dawn', 'country road']",2024-05-14
+Crafting Audio,55,954,['white noise'],2024-05-14
+FXRCE,55,15912,['phonk brasileiro'],2024-05-14
+PARCEL,54,576,['white noise'],2024-05-14
+Universal Waves,54,288,"['color noise', 'white noise']",2024-05-14
+Grace Potter,54,119938,[],2024-05-14
+Rachel House,54,4502,"['movie tunes', 'show tunes', 'waiata mo tamariki']",2024-05-14
+Lebo M.,54,25359,['movie tunes'],2024-05-14
+DJ GUDOG,54,85309,['phonk brasileiro'],2024-05-14
+Lonestar,54,1403171,"['contemporary country', 'country', 'country road']",2024-05-14
+Janet Redger,54,6318,[],2024-05-14
+Tevin Campbell,54,1065525,"['contemporary r&b', 'new jack swing', 'r&b', 'urban contemporary']",2024-05-14
+A. G. Cook,54,138507,"['bubblegum bass', 'escape room', 'hyperpop', 'proto-hyperpop']",2024-05-14
+Tracy Byrd,54,792977,"['contemporary country', 'country', 'country road']",2024-05-14
+zaichkou888,54,1309,[],2024-05-14
+Santino Fontana,54,8422,['movie tunes'],2024-05-14
+Vaneese Thomas,54,3344,['movie tunes'],2024-05-14
+Clay Walker,54,1191925,"['contemporary country', 'country', 'country road']",2024-05-14
+Gael Garcia Bernal,54,10121,['movie tunes'],2024-05-14
+Anna Wise,54,71454,['alternative r&b'],2024-05-14
+phonk.me,54,200720,['gym phonk'],2024-05-14
+Cheryl Freeman,54,6092,['movie tunes'],2024-05-14
+LaChanze,54,1821,['movie tunes'],2024-05-14
+Mauro Castillo,54,39818,"['modern salsa', 'movie tunes', 'salsa colombiana']",2024-05-14
+Jordan Fisher,54,435280,"['movie tunes', 'post-teen pop']",2024-05-14
+State of Waves,54,256,['white noise'],2024-05-14
+Klangspiel,54,314,"['color noise', 'white noise']",2024-05-14
+Matthew Wilder,54,47269,['new wave pop'],2024-05-14
+X.L.T,54,356,"['rain', 'white noise']",2024-05-14
+Nateki,54,46851,['gym phonk'],2024-05-14
+Relaxed Minds,54,5161,"['water', 'white noise']",2024-05-14
+Zachary Levi,54,11191,['movie tunes'],2024-05-14
+Lillias White,54,6860,['movie tunes'],2024-05-14
+Avery Anna,54,116172,"['alt z', 'modern country pop', 'singer-songwriter pop']",2024-05-14
+Adassa,54,8078,['movie tunes'],2024-05-14
+SHADXWBXRN,54,200375,"['drift phonk', 'gym phonk']",2024-05-14
+Lulu Helensworth,54,646,[],2024-05-14
+Andra Day,53,415989,['r&b'],2024-05-14
+Bay Swag,53,11534,[],2024-05-14
+NONTHENSE,53,16461,['krushfunk'],2024-05-14
+Zach Hood,53,264155,"['alt z', 'gen z singer-songwriter', 'singer-songwriter pop']",2024-05-14
+The Clear Mind,53,133,['white noise'],2024-05-14
+Carolina Gaitán - La Gaita,53,62322,['movie tunes'],2024-05-14
+Sawyer Brown,53,568880,"['contemporary country', 'country', 'country road']",2024-05-14
+Evan Rachel Wood,53,29652,"['hollywood', 'movie tunes']",2024-05-14
+MC Vuiziki,53,7053,['phonk brasileiro'],2024-05-14
+Chorus - Mulan,53,6221,['movie tunes'],2024-05-14
+Chris Pine,53,15519,['movie tunes'],2024-05-14
+Seek,53,33416,['gym phonk'],2024-05-14
+Blessing Offor,53,61851,['ccm'],2024-05-14
+KIIXSHI,53,41394,['gym phonk'],2024-05-14
+Nylana,53,33,['white noise'],2024-05-14
+Mark Chesnutt,53,765359,"['country', 'country road']",2024-05-14
+Los mismos De La M,53,9601,[],2024-05-14
+Ren Lockhart,53,582,[],2024-05-14
+Valley,53,233910,"['hopebeat', 'indietronica', 'singer-songwriter pop']",2024-05-14
+David Lee Murphy,53,341064,"['contemporary country', 'country', 'country road']",2024-05-14
+Rhenzy Feliz,53,2500,[],2024-05-14
+PLAYAMANE,53,175233,['drift phonk'],2024-05-14
+SMITHMANE,53,29947,['gym phonk'],2024-05-14
+Julie Andrews,53,127154,"['hollywood', 'movie tunes', 'show tunes']",2024-05-14
+Mentatranque,52,161,"['color noise', 'white noise']",2024-05-14
+FR3ST,52,21211,['phonk brasileiro'],2024-05-14
+Asa Kora,52,245,[],2024-05-14
+Laila!,52,26061,[],2024-05-14
+Halle,52,292283,[],2024-05-14
+Somnum Magnam,52,406,[],2024-05-14
+Anika Noni Rose,52,30252,['movie tunes'],2024-05-14
+Galactica Pivot,52,293,[],2024-05-14
+Ardeon,52,133,['white noise'],2024-05-14
+Mark Keali'i Ho'omalu,52,21746,['movie tunes'],2024-05-14
+Fjordyn,52,133,[],2024-05-14
+Panoramia,52,164,['white noise'],2024-05-14
+Kalan.FrFr,52,115010,"['cali rap', 'westcoast flow']",2024-05-14
+Sky Travis,52,159,"['color noise', 'white noise']",2024-05-14
+Owen Riegling,52,14565,['modern country pop'],2024-05-14
+Kamehameha Schools Children's Chorus,52,4015,['movie tunes'],2024-05-14
+Jessica Darrow,52,23868,['movie tunes'],2024-05-14
+600 Ent.,52,181,[],2024-05-14
+Bette Midler,52,753198,"['adult standards', 'new wave pop', 'soft rock']",2024-05-14
+Aileron,52,182,['white noise'],2024-05-14
+Samuel E. Wright,52,27200,['movie tunes'],2024-05-14
+ICHIRO,52,15292,['phonk brasileiro'],2024-05-14
+Anthony Gonzalez,52,15982,['movie tunes'],2024-05-14
+Martina McBride,52,1346709,"['contemporary country', 'country', 'country dawn', 'country road']",2024-05-14
+Diamond Rio,52,935465,"['contemporary country', 'country', 'country road']",2024-05-14
+Raveena,52,509852,"['alternative r&b', 'indie soul']",2024-05-14
+Luna Novina,52,980,[],2024-05-14
+Isolate.exe,52,61936,['gym phonk'],2024-05-14
+Natural Sound Makers,52,3605,"['rain', 'white noise']",2024-05-14
+Hit-Boy,52,86486,['drumless hip hop'],2024-05-14
+Matt Stell,52,69034,"['arkansas country', 'contemporary country', 'country pop', 'modern country rock']",2024-05-14
+Evomin,52,201,['white noise'],2024-05-14
+Louise Bush,52,943,['movie tunes'],2024-05-14
+Finneas O'Connell,52,18437,['movie tunes'],2024-05-14
+Rowan Atkinson,51,8806,['british comedy'],2024-05-14
+Akvavit,51,261,"['rain', 'white noise']",2024-05-14
+SAY3AM,51,34653,[],2024-05-14
+Yung Hood,51,998,[],2024-05-14
+Ole-Bjørn Talstad,51,2194,['background piano'],2024-05-14
+Kylie Cantrall,51,95949,['movie tunes'],2024-05-14
+WEEDMANE,51,43896,['drift phonk'],2024-05-14
+Donny Osmond,51,106883,['bubblegum pop'],2024-05-14
+Dean Demir,51,206,['background piano'],2024-05-14
+Valdervande,51,94,"['color noise', 'white noise']",2024-05-14
+Allysium,51,3781,[],2024-05-14
+Angela Lansbury,51,31023,['movie tunes'],2024-05-14
+Joy Williams,51,118198,"['acoustic pop', 'christian indie', 'nashville americana', 'nashville singer-songwriter', 'new americana']",2024-05-14
+Noise Chillantro,51,109,['white noise'],2024-05-14
+All Night Chill Makers,51,416,"['water', 'white noise']",2024-05-14
+Sleep Sound Factory,51,419,['white noise'],2024-05-14
+TENZOO,51,5963,[],2024-05-14
+Sha EK,51,207981,"['bronx drill', 'new york drill']",2024-05-14
+Wizz Havinn,51,28670,[],2024-05-14
+Suicideyear,51,30269,"['phonk', 'wave']",2024-05-14
+dj gummy bear,51,31460,[],2024-05-14
+Olga Merediz,51,2587,[],2024-05-14
+Soundstars,51,199,['white noise'],2024-05-14
+STRAWANGLE,51,13003,['gym phonk'],2024-05-14
+Maya Sarfatto,51,576,[],2024-05-14
+Rannar Sillard,51,4998,[],2024-05-14
+Isaiah Falls,51,25051,[],2024-05-14
+core5k,51,12324,[],2024-05-14
+Atmosphere of Calm,51,185,['white noise'],2024-05-14
+Laura Williams,51,4409,['movie tunes'],2024-05-14
+Somnolence,51,232,['white noise'],2024-05-14
+Kelsey Hart,50,41740,['modern country pop'],2024-05-14
+MC Da 12,50,5163,['phonk brasileiro'],2024-05-14
+DJ Paulinho Mondi Da Baixa Baviera,50,15331,[],2024-05-14
+gqtis,50,45180,['gym phonk'],2024-05-14
+ARCHEZ,50,59553,"['drift phonk', 'gym phonk']",2024-05-14
+Chris LeDoux,50,499361,"['country', 'country road', 'wyoming roots']",2024-05-14
+Agatha Lee Monn,50,3529,['movie tunes'],2024-05-14
+Jody R,50,203,['lo-fi sleep'],2024-05-14
+Trap Of Sounds,50,160,"['color noise', 'white noise']",2024-05-14
+Deana Carter,50,522357,"['country', 'country dawn', 'country road']",2024-05-14
+Deep Horizon Waves,50,502,"['water', 'white noise']",2024-05-14
+Pollux Pluto,50,207,[],2024-05-14
+Brian Kelley,50,33308,['modern country pop'],2024-05-14
+Susan Egan,50,17281,['movie tunes'],2024-05-14
+John Anderson,50,490385,"['classic country pop', 'country', 'country road', 'country rock']",2024-05-14
+Brad Kane,50,11943,['movie tunes'],2024-05-14
+GRAVECHILL,50,45909,"['chill phonk', 'drift phonk']",2024-05-14
+Flori Vivea,50,232,[],2024-05-14
+The Lay-Backs,50,904,['sleep'],2024-05-14
+Monaleo,50,183621,['viral rap'],2024-05-14
+4*TOWN (From Disney and Pixar’s Turning Red),50,273952,['movie tunes'],2024-05-14
+Hovar,50,133,['white noise'],2024-05-14
+Katie Lopez,50,2908,['movie tunes'],2024-05-14
+Mach-Hommy,50,124620,"['alternative hip hop', 'boom bap', 'chill abstract hip hop', 'drumless hip hop', 'new jersey rap', 'psychedelic hip hop']",2024-05-14
+Placidous,50,319,[],2024-05-14
+Lola Brooke,50,235678,['trap queen'],2024-05-14
+Roz Ryan,50,2485,['movie tunes'],2024-05-14
+Jodi Benson,50,42492,['movie tunes'],2024-05-14
+msht,50,14419,[],2024-05-14
+Topher Ngo,50,2841,['movie tunes'],2024-05-14
+Lumious Dreamer,50,39,[],2024-05-14
+KXNVRA,50,56384,"['drift phonk', 'gym phonk']",2024-05-14
+Kinechan,50,67882,[],2024-05-14
+High Res Lo Fi,50,170,['white noise'],2024-05-14
+The White Noise Travelers,50,249,['white noise'],2024-05-14
+Hudson Rull,50,24,[],2024-05-14
+Grayson Villanueva,50,2714,['movie tunes'],2024-05-14
+Christian Janssen,50,595,['background piano'],2024-05-14
+Celestial Whisperer,49,21,[],2024-05-14
+EXOA,49,69,['white noise'],2024-05-14
+Likko Sol,49,88,"['color noise', 'white noise']",2024-05-14
+Henriette Fleich,49,574,[],2024-05-14
+Ookean,49,1585,['binaural'],2024-05-14
+Leander Vaughn,49,82,[],2024-05-14
+Alfons Daiminger,49,1096,[],2024-05-14
+Vígi Seaghdh,49,139,[],2024-05-14
+Julie Fowlis,49,70657,"['puirt-a-beul', 'scottish folk']",2024-05-14
+Lilly Almberg,49,56,['white noise'],2024-05-14
+Cynthia Erivo,49,178738,['pop soul'],2024-05-14
+Alison Krauss & Union Station,49,191294,['progressive bluegrass'],2024-05-14
+Salomon Isle,49,188,[],2024-05-14
+Lavender Balm,49,30,['white noise'],2024-05-14
+Samuel Kees,49,309,[],2024-05-14
+Galaxarastra,49,46,[],2024-05-14
+Asana Ventus,49,150,['white noise'],2024-05-14
+Destiny Rogers,49,175631,[],2024-05-14
+Nova Issue,49,588,['sleep'],2024-05-14
+Mc Erikah,49,13018,[],2024-05-14
+Synthetic Architect,49,205,['white noise'],2024-05-14
+Noise Factory,49,389,['white noise'],2024-05-14
+So Lis,49,78,[],2024-05-14
+killanoia,49,7226,['gym phonk'],2024-05-14
+Alpha Vectoriam,49,473,['sleep'],2024-05-14
+ELVEN DIOR,49,9321,[],2024-05-14
+StyccO,49,117,['white noise'],2024-05-14
+LXAES,49,12307,[],2024-05-14
+Jim Jones,49,705721,"['gangster rap', 'harlem hip hop', 'pop rap', 'trap']",2024-05-14
+Luiza Schmidt,49,975,[],2024-05-14
+Big Boss Vette,49,94301,['trap queen'],2024-05-14
+Angelique Cabral,49,951,[],2024-05-14
+May Laude,48,304,[],2024-05-14
+Mima Renard,48,270,['background piano'],2024-05-14
+Vinícius Énnae,48,60,[],2024-05-14
+Patty Loveless,48,439691,"['country', 'country dawn', 'country road', 'kentucky roots']",2024-05-14
+Nova Cantabile,48,234,[],2024-05-14
+Moldoveanu,48,1299,[],2024-05-14
+Spreen,48,440776,[],2024-05-14
+Rama Fiore,48,241,[],2024-05-14
+Skiez,48,132,['white noise'],2024-05-14
+Eône,48,65,[],2024-05-14
+Carluccio,48,1484,['background piano'],2024-05-14
+Aca Malvina,48,113,[],2024-05-14
+Day Nappers,48,152,"['color noise', 'white noise']",2024-05-14
+Kiara Leonard,48,1222,['background piano'],2024-05-14
+Furna,48,235,[],2024-05-14
+Sarah Jeffery,48,196062,['movie tunes'],2024-05-14
+Cole Neumann,48,269,[],2024-05-14
+Devon Cole,48,193652,['singer-songwriter pop'],2024-05-14
+Divijata Ash,48,128,['healing hz'],2024-05-14
+St/llar,48,234,[],2024-05-14
+Lusunzi,48,196,[],2024-05-14
+Terence Blanchard,48,39657,"['contemporary post-bop', 'jazz trumpet', 'new orleans jazz']",2024-05-14
+Aurora Novara,48,23,[],2024-05-14
+Frej Simdo,48,136,[],2024-05-14
+Gjenklang,48,353,[],2024-05-14
+On Dunes,48,234,[],2024-05-14
+Wels,48,12231,['memphis phonk'],2024-05-14
+De Seu,48,290,['sleep'],2024-05-14
+Tokyomane,48,58862,['drift phonk'],2024-05-14
+Fall Asleep Machine,48,184,['white noise'],2024-05-14
+Zendium,48,104,['white noise'],2024-05-14
+Starshine Strum,48,33,[],2024-05-14
+Natural Sample Makers,48,387,"['environmental', 'white noise']",2024-05-14
+Staarz,48,2899,[],2024-05-14
+Phil Harris,48,13473,['movie tunes'],2024-05-14
+Hatha Priya,48,687,['sleep'],2024-05-14
+Chorus - Beauty And the Beast,48,6155,['movie tunes'],2024-05-14
+Water Science,48,634,"['water', 'white noise']",2024-05-14
+Noyze Freq,48,73,"['color noise', 'white noise']",2024-05-14
+Reality Sound,48,152,"['color noise', 'white noise']",2024-05-14
+STRLGHT,48,24948,[],2024-05-14
+Morgondimma,48,341,[],2024-05-14
+Rushex,48,27037,['gym phonk'],2024-05-14
+Noah Florence,48,59,[],2024-05-14
+Pam Tillis,47,415820,"['country', 'country dawn', 'country road']",2024-05-14
+Tigirlily Gold,47,36566,"['modern country pop', 'north dakota indie']",2024-05-14
+Jerry Orbach,47,6206,['movie tunes'],2024-05-14
+Crystal Slowdown,47,109,"['color noise', 'white noise']",2024-05-14
+Aaron Tippin,47,614494,"['country', 'country road']",2024-05-14
+Ambi Val,47,108,['white noise'],2024-05-14
+Arlo Thiem,47,287,[],2024-05-14
+Rocket FX,47,88,['white noise'],2024-05-14
+Eztebe Matia,47,337,[],2024-05-14
+Vizzionz,47,136,['white noise'],2024-05-14
+Sharo Towers,47,1998,[],2024-05-14
+Scientists of Noise,47,200,['white noise'],2024-05-14
+Zamphire,47,173,[],2024-05-14
+Aeyes Libe,47,330,[],2024-05-14
+Joaquim Azevedo,47,314,['background piano'],2024-05-14
+Sleep Alphabet,47,103,['white noise'],2024-05-14
+Ozeanus,47,88,"['color noise', 'white noise']",2024-05-14
+Malmkvist,47,342,[],2024-05-14
+Dreezy,47,709278,"['chicago rap', 'drill', 'trap queen']",2024-05-14
+De Janos,47,88,[],2024-05-14
+Cast of Frozen 2,47,5251,[],2024-05-14
+Barry Hudson-Taylor,47,1124,[],2024-05-14
+Mages of Chronos,47,61,[],2024-05-14
+Dwight Rivera,47,664,[],2024-05-14
+Towa Bird,47,47385,[],2024-05-14
+Aguamenti,47,14,['white noise'],2024-05-14
+Stellar Serenity,47,301,[],2024-05-14
+Floyd Nova,47,433,[],2024-05-14
+Jim Efforts,47,105,['white noise'],2024-05-14
+Dayonas Dream,47,225,[],2024-05-14
+Aska Mill,47,124,['white noise'],2024-05-14
+Rufus Ziegler,47,60,[],2024-05-14
+MC 99,47,1881,[],2024-05-14
+Lorenzo Fiore,47,687,['background piano'],2024-05-14
+Dehd,47,88948,"['bubblegrunge', 'countrygaze', 'surf punk']",2024-05-14
+Cardi Mist,46,202,[],2024-05-14
+Phillipp Vogler,46,1128,[],2024-05-14
+Arata Rin,46,199,['background piano'],2024-05-14
+Cloudville,46,120,[],2024-05-14
+Lakeyah,46,203776,['pop r&b'],2024-05-14
+Oaktale,46,38,[],2024-05-14
+Freq Molecule,46,326,['white noise'],2024-05-14
+Andrea Prine,46,138,[],2024-05-14
+Citys Of Collides,46,48,['white noise'],2024-05-14
+Enigmatic Horizons,46,21,[],2024-05-14
+North Connolly,46,480,[],2024-05-14
+Carmen Twillie,46,9787,['movie tunes'],2024-05-14
+Haldur,46,306,[],2024-05-14
+Scandinavian White Noise,46,194,['white noise'],2024-05-14
+Bruce Reitherman,46,4219,['movie tunes'],2024-05-14
+Nessa Wright,46,135,[],2024-05-14
+Gateway IV,46,61,"['binaural', 'color noise']",2024-05-14
+Magia Blanca,46,216,['white noise'],2024-05-14
+Domi Nova,46,236,[],2024-05-14
+Una Luna,46,5164,[],2024-05-14
+Haworth in White,46,64,['white noise'],2024-05-14
+staplegun,46,45600,['gym phonk'],2024-05-14
+Donna Murphy,46,8708,['movie tunes'],2024-05-14
+Zero Oto,46,132,['white noise'],2024-05-14
+DRAGONMANE,46,26700,['memphis phonk'],2024-05-14
+Roger Bart,46,9700,['movie tunes'],2024-05-14
+ZIWA,46,528,[],2024-05-14
+Sabrina Austin,46,705,[],2024-05-14
+Mira Appelquist,46,278,[],2024-05-14
+Emma Watson,46,86633,['movie tunes'],2024-05-14
+Clunieux,46,66,[],2024-05-14
+Sophie Powers,46,58128,['hyper-rock'],2024-05-14
+John Paul White,46,36249,['alabama indie'],2024-05-14
+Maria Botican,46,140,[],2024-05-14
+Amy Adams,46,28204,['movie tunes'],2024-05-14
+Sorana,46,20621,['romanian pop'],2024-05-14
+Benjamin Rhey,46,470,[],2024-05-14
+Hz Catchers,46,145,['white noise'],2024-05-14
+Peaceful Me,46,292,['white noise'],2024-05-14
+Dream Fuzz,46,111,['white noise'],2024-05-14
+Dick Van Dyke,46,32990,['movie tunes'],2024-05-14
+Roland Toubin,46,493,[],2024-05-14
+Zolita,46,386975,['alt z'],2024-05-14
+David Bengloff,46,101,[],2024-05-14
+Sanna Aalto,45,570,[],2024-05-14
+Chrome Details Noise,45,98,['white noise'],2024-05-14
+Finja Seiden,45,157,['background piano'],2024-05-14
+River Tiber,45,62259,['experimental r&b'],2024-05-14
+Iseo Ander,45,73,[],2024-05-14
+Haley Morrison,45,270,[],2024-05-14
+Wynonna,45,520973,"['country', 'country dawn', 'country road']",2024-05-14
+Vincent Fanguro,45,776,[],2024-05-14
+Miran,45,389,[],2024-05-14
+Brad Garrett,45,1339,[],2024-05-14
+Cumulus Clouds,45,90,['white noise'],2024-05-14
+Elysian Lotus,45,10,[],2024-05-14
+Mes Croquis,45,206,[],2024-05-14
+Chorus - Hercules,45,3466,['movie tunes'],2024-05-14
+Abelin Lagarde,45,186,['background piano'],2024-05-14
+Arden Brooks,45,309,[],2024-05-14
+ROONIN,45,4665,[],2024-05-14
+Neal McCoy,45,453936,"['country', 'country road']",2024-05-14
+Ecstatix,45,128,"['color noise', 'white noise']",2024-05-14
+Jolixwery,45,12878,['gym phonk'],2024-05-14
+Finn Lenoir,45,198,[],2024-05-14
+Hans Jacob,45,15,[],2024-05-14
+Ambrosiae,45,1016,[],2024-05-14
+Xiskko,45,69,['white noise'],2024-05-14
+Ensemble - Tangled,45,764,[],2024-05-14
+Somnography,45,80,['white noise'],2024-05-14
+Aramis Morel,45,237,[],2024-05-14
+Mary Chapin Carpenter,45,217045,"['classic country pop', 'country', 'country rock', 'ectofolk', 'folk', 'lilith', 'singer-songwriter']",2024-05-14
+Hypnosis Nun,45,60,[],2024-05-14
+Focus Finders,45,127,['white noise'],2024-05-14
+Isah Atkins,45,140,[],2024-05-14
+Valérie Valérie,45,53,[],2024-05-14
+Ursae Minoris,45,53,[],2024-05-14
+Valentina Romano,45,218,['background piano'],2024-05-14
